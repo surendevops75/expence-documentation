@@ -69,7 +69,7 @@ The end user accesses the application through a browser or mobile device.
 Example:
 
 ```text
-https://joindevops.com
+https://surendevops75.com
 ```
 
 ---
